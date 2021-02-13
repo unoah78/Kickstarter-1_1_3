@@ -1,2 +1,2 @@
-# Kickstarter-1_1_3
+# Kickstarter-analysis
 Kickstarter Data Analysis_Excel
