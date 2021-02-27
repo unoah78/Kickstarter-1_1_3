@@ -12,7 +12,7 @@ These lessons walked through how to:
 - Finding averages for rows or columns.
 - Creating Pivot Tables and inserting charts.
 
-(![image](https://user-images.githubusercontent.com/79024998/109375854-02a52a80-788e-11eb-8c25-d6a83f6fe48a.png)
+![image](https://user-images.githubusercontent.com/79024998/109375854-02a52a80-788e-11eb-8c25-d6a83f6fe48a.png)
 
 - Formulas that help identify relationships between values in the cells 
 of spreadsheets while performing mathematical calculations using those 
@@ -29,7 +29,7 @@ This conclusion was derived from analyzing the total number projects of
 and those that were canceled and categorizing them by a range of goals 
 from less than $1000 through goals that were greater than $50,000.
 
-(![image](https://user-images.githubusercontent.com/79024998/109375937-ce7e3980-788e-11eb-9102-da668d62cbf3.png)
+![image](https://user-images.githubusercontent.com/79024998/109375937-ce7e3980-788e-11eb-9102-da668d62cbf3.png)
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -39,7 +39,7 @@ would be either May followed by June.
 These two months had the most *Theaters* launch with a greater percentage 
 of succeeding vs failing.
 
-(![image](https://user-images.githubusercontent.com/79024998/109375976-35035780-788f-11eb-9416-a1dabdb08d57.png)
+![image](https://user-images.githubusercontent.com/79024998/109375976-35035780-788f-11eb-9416-a1dabdb08d57.png)
 
 
 ### Challenges and Difficulties Encountered
@@ -51,7 +51,7 @@ Likewise for the *“Edinburgh”* task that needed =VLOOKUP formulas that
 pulled data from the *Kickstarter* tab to fills the cells in the below 
 table.
 
-(![image](https://user-images.githubusercontent.com/79024998/109376014-9b887580-788f-11eb-8db7-54d8908a53ab.png)
+![image](https://user-images.githubusercontent.com/79024998/109376014-9b887580-788f-11eb-8db7-54d8908a53ab.png)
 
 
 ## Results
