@@ -12,7 +12,7 @@ These lessons walked through how to:
 - Finding averages for rows or columns.
 - Creating Pivot Tables and inserting charts.
 
-![Parent Category Outcomes](![image](https://user-images.githubusercontent.com/79024998/109375854-02a52a80-788e-11eb-8c25-d6a83f6fe48a.png)
+(![image](https://user-images.githubusercontent.com/79024998/109375854-02a52a80-788e-11eb-8c25-d6a83f6fe48a.png)
 
 - Formulas that help identify relationships between values in the cells 
 of spreadsheets while performing mathematical calculations using those 
